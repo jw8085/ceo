@@ -1,0 +1,61 @@
+{
+  "documents": [],
+  "tables_parsed": [],
+  "tables_source_info": [],
+  "images": [
+    {
+      "original_name": "1776377214854",
+      "file_name": "1776377214854.png",
+      "file_path": "/data/workspace/cc14d042-6488-4caa-8ea6-67d6f85ca8e7/web_0416Wte7Jp9892/public/images/1776377214854.png",
+      "rel_path": "images/1776377214854.png",
+      "file_type": "png",
+      "category": "images"
+    },
+    {
+      "original_name": "1776377211191",
+      "file_name": "1776377211191.png",
+      "file_path": "/data/workspace/cc14d042-6488-4caa-8ea6-67d6f85ca8e7/web_0416Wte7Jp9892/public/images/1776377211191.png",
+      "rel_path": "images/1776377211191.png",
+      "file_type": "png",
+      "category": "images"
+    },
+    {
+      "original_name": "1776377209208",
+      "file_name": "1776377209208.png",
+      "file_path": "/data/workspace/cc14d042-6488-4caa-8ea6-67d6f85ca8e7/web_0416Wte7Jp9892/public/images/1776377209208.png",
+      "rel_path": "images/1776377209208.png",
+      "file_type": "png",
+      "category": "images"
+    },
+    {
+      "original_name": "스크린샷6493",
+      "file_name": "스크린샷6493.png",
+      "file_path": "/data/workspace/cc14d042-6488-4caa-8ea6-67d6f85ca8e7/web_0416Wte7Jp9892/public/images/스크린샷6493.png",
+      "rel_path": "images/스크린샷6493.png",
+      "file_type": "png",
+      "category": "images"
+    }
+  ],
+  "summary": {
+    "total_files": 5,
+    "by_category": {
+      "documents": 0,
+      "tables_parsed": 0,
+      "tables_source_info": 0,
+      "images": 4,
+      "document": 1
+    },
+    "processing_time": null
+  },
+  "document": [
+    {
+      "original_name": "경영인정기 보험 ",
+      "file_name": "경영인정기 보험 .md",
+      "file_path": "/data/workspace/cc14d042-6488-4caa-8ea6-67d6f85ca8e7/web_0416Wte7Jp9892/uploaded_files/documents/경영인정기 보험 .md",
+      "file_type": "md",
+      "category": "document",
+      "summary": "Processed 경영인정기 보험  for coding",
+      "source_id": "2044779003484491776"
+    }
+  ]
+}
